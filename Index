@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Hosting</title>
+    </head>
+    <body style="background-color:orange;">
+        <h1>Web Hosting Test Demo</h1>
+        <p>This is our first index web hosting page.
+        <br>Thank you.
+        </p>
+        
+        <marquee>Made by-Priti</marquee>
+    </body>
+</html>
